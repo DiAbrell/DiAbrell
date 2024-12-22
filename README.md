@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DiAbrell
 - 👀 I’m interested in GIS-using-python
 - 🌱 I’m currently learning to get along (lese https://dpunkt.de/produkt/github-eine-praktische-einfuehrung/ )
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on ( u.a. Aufbau Hypertext Wissensmanagement / Knwoledge Management aus LLM Antworten)
+- 📫 How to reach me  ( hier ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
