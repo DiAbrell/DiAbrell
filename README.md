@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiAbrell
 - 👀 I’m interested in GIS-using-python
-- 🌱 I’m currently learning to get along
+- 🌱 I’m currently learning to get along (lese https://dpunkt.de/produkt/github-eine-praktische-einfuehrung/ )
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
